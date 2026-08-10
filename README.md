@@ -10,7 +10,7 @@ An end-to-end data analysis of Megaline's two prepaid plans (Surf and Ultimate),
 
 The interactive dashboard is **embedded directly inside the Jupyter Notebook** — built entirely with Plotly, no external BI tool. It includes KPI cards, plan revenue comparison, usage comparison, plan-limit overage analysis, an interactive monthly trend (dropdown metric selector), revenue distribution, and a statistical test summary table.
 
-**[→ Open the Interactive Dashboard Notebook](notebooks/Statistics_project_2.ipynb)** (Dashboard is Section 8, right after the data pipeline is built)
+**[→ Open the Interactive Dashboard Notebook](Megaline_project.ipynb)** (Dashboard is Section 8, right after the data pipeline is built)
 
 Static, standalone copies of every chart (including the dashboard's) are also available under [`charts/`](charts/) as PNG image files you can view without opening Jupyter.
 
