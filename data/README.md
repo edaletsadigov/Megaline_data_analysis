@@ -77,6 +77,9 @@ Five CSV files, covering **500 Megaline clients** and their **2018 usage activit
 
 ---
 
+
+[Megaline_project.ipynb](../Megaline_project.ipynb)
+
 ## Notes
 
 - Zero-duration calls (~19.5% of `megaline_calls.csv`) and zero-usage internet sessions (~13.1% of `megaline_internet.csv`) are **retained**, not dropped — they represent valid call/session attempts and do not distort the revenue calculation once Megaline's rounding rules are applied.
