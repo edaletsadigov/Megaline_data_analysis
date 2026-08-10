@@ -2,7 +2,7 @@
 
 Static PNG copies of every major chart from the notebook — open any file with an image viewer, no Jupyter required. Colors are consistent throughout the project: 🟦 **Surf**, 🟧 **Ultimate**.
 
-For the interactive (hover/zoom/pan) versions of these same charts, plus the full interactive dashboard, open [Megaline_project.ipynb](Megaline_project.ipynb).
+For the interactive (hover/zoom/pan) versions of these same charts, plus the full interactive dashboard, open [Megaline_project.ipynb](../Megaline_project.ipynb).
 
 ---
 
